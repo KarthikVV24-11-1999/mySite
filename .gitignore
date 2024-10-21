@@ -4,7 +4,6 @@ __pycache__/
 mySite/__pycache__/
 pollsApp/__pycache__/
 pollsApp/migrations/
-db.sqlite3
 .coverage
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
