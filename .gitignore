@@ -1,4 +1,10 @@
-
+.DS_Store
+*.pyc
+__pycache__/
+mySite/__pycache__/
+pollsApp/__pycache__/
+db.sqlite3
+.coverage
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
