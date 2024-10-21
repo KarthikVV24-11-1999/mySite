@@ -1,2 +1,2 @@
-service: travis-ci
 repo_token: sZWsFIZScm7Z65kGKJTzZDnNLIdJQ96zK
+service_name: travis-pro
