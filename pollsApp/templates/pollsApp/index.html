@@ -1,5 +1,6 @@
 {% if latest_question_list %}
     <ul>
+        test2
         test
     {% for question in latest_question_list %}
         <li><a href="{% url 'pollsApp:detail' question.id %}">{{ question.question_text }}</a></li>
